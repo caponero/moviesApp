@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.movies",
+  "appName": "MoviesApp2",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
